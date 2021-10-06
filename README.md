@@ -1,2 +1,2 @@
-# gitcoin-hackathon-issues
-DeFi &amp; Cross-chain Interoperability Hackathon
+# Gitcoin bounties
+This is a dedicated repo for DeFi &amp; Cross-chain Interoperability Hackathon
